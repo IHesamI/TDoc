@@ -5,7 +5,7 @@ import Link from "@docusaurus/Link";
 
 const FeatureList = [
   {
-    link:'/docs/django/index',
+    link:'/docs/django',
     title: "Focus on What Matters",
     path: require("@site/static/img/pyDjan.png").default,
     description: (
@@ -16,7 +16,7 @@ const FeatureList = [
     ),
   },
   {
-    link:'/docs/bot/index',
+    link:'/docs/bot',
     title: "Focus on What Matters",
     path: require("@site/static/img/pyBot.png").default,
     description: (
