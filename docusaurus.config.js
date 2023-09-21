@@ -9,17 +9,17 @@ const config = {
   title: 'Tayebi doc',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
-
   // Set the production url of your site here
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://ihesami.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/TDoc/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'ihesami', // Usually your GitHub org/user name.
   projectName: 'TDoc', // Usually your repo name.
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

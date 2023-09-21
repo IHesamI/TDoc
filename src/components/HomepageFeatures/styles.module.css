@@ -9,3 +9,15 @@
   height: 200px;
   width: 200px;
 }
+.link_row{
+  display: flex;
+  flex-direction: row;
+}
+.link_container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-decoration: none;
+  width: 200px;
+  align-items: center;
+}
