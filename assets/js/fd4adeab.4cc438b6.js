@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktdoc=self.webpackChunktdoc||[]).push([[611],{2420:t=>{t.exports=JSON.parse('{"title":"\u062c\u0646\u06af\u0648","slug":"django","permalink":"/TDoc/docs/django","navigation":{"previous":{"title":"Pilot","permalink":"/TDoc/docs/bot/install"},"next":{"title":"Pilot","permalink":"/TDoc/docs/django/install"}}}')}}]);

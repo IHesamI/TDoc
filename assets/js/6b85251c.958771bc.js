@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktdoc=self.webpackChunktdoc||[]).push([[6387],{7652:o=>{o.exports=JSON.parse('{"permalink":"/TDoc/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

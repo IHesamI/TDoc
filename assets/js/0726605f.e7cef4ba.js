@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktdoc=self.webpackChunktdoc||[]).push([[850],{3882:t=>{t.exports=JSON.parse('{"title":"\u0631\u0628\u0627\u062a \u062a\u0644\u06af\u0631\u0627\u0645","slug":"bot","permalink":"/TDoc/docs/bot","navigation":{"previous":{"title":"Tutorial Intro","permalink":"/TDoc/docs/intro"},"next":{"title":"Pilot","permalink":"/TDoc/docs/bot/install"}}}')}}]);
